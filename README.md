@@ -4,7 +4,7 @@ Nesta atividade, aprendemos a funcionalidade da plataforma Bootstrap que é uma 
 
 Os frameworks podem ser front-end ou back-end
 
- O QUE FOI APRENDIDO:
+ #### O QUE FOI APRENDIDO:
 
  - Instalação dos arquivios
  - Sistema Grid
