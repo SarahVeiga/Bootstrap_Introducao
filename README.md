@@ -6,13 +6,16 @@ Os frameworks podem ser front-end ou back-end
 
  #### O QUE FOI APRENDIDO:
 
- - Instalação dos arquivios
- - Sistema Grid
- - Container
- - Botões
- - Formulário
- - Cards
- - Navbar
- - Modal
- - Carrosel
- - Alerts e Progress Bar Interativos
+ - Instalação dos arquivios;
+ - Sistema Grid;
+ - Container;
+ - Botões;
+ - Formulário;
+ - Cards;
+ - Navbar;
+ - Modal;
+ - Carrosel;
+ - Alerts e Progress Bar Interativos.
+
+ - #### Exercício: Layout Completo com Bootstrap
+
