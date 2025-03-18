@@ -16,3 +16,6 @@ Os frameworks podem ser front-end ou back-end
  - Modal
  - Carrosel
  - Alerts e Progress Bar Interativos
+
+ - #### Exercício: Layout Completo com Bootstrap
+
