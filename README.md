@@ -15,3 +15,4 @@ Os frameworks podem ser front-end ou back-end
  - Navbar
  - Modal
  - Carrosel
+ - Alerts e Progress Bar Interativos
